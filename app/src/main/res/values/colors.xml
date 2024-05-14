@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple">#630566</color>
+    <color name="Blue">#2196F3</color>
+    <color name="btn_blue">#00008B</color>
+    <color name="Grey">#899499</color>
+    <color name="Silver">#C0C0C0</color>
+    <color name="btn_lightPurple">#C3B1E1</color>
+</resources>
